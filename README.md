@@ -25,7 +25,3 @@ I am actively seeking internship opportunities as a Software Engineer or Backend
 ![](https://nirzak-streak-stats.vercel.app/?user=Akleshsoni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akleshsoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akleshsoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akleshsoni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akleshsoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
