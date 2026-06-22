@@ -25,3 +25,6 @@ I am actively seeking internship opportunities as a Software Engineer or Backend
 ![](https://nirzak-streak-stats.vercel.app/?user=Akleshsoni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akleshsoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<img width="1244" height="478" alt="Screenshot 2026-06-22 102610" src="https://github.com/user-attachments/assets/b04a54c0-6431-431c-81ab-b0acf50c730d" />
+
